@@ -1,2 +1,3 @@
 # nautils
-Utilities for parsing nucleic acid sequences.
+
+Utilities for converting DNA sequences into RNA sequences.
